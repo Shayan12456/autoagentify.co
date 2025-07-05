@@ -5,7 +5,7 @@ const FramerEmbed = () => {
         src="https://easier-researchers-801580.framer.app/"
         title="Framer Embed"
         style={styles.iframe}
-        scrolling="no"
+        scrolling="yes"
       />
     </div>
   );
